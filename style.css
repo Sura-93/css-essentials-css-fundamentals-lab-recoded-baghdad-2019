@@ -12,8 +12,8 @@ img {
   width:50%;
 }
 nav a {
-  display: inline-block;
+  display: block;
   padding-right: 10px;
   padding-left: 10px;
-  text-align: center;
+  text-align: center
 }
