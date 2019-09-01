@@ -20,5 +20,6 @@ nav li {
   display: inline;
 }
 nav a {
+  display: inline-block;
   
 }
